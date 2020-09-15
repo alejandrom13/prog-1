@@ -1,0 +1,6 @@
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\bin\Debug\PRACTICA_2.exe
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\bin\Debug\PRACTICA_2.pdb
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\obj\Debug\PRACTICA 2.csprojAssemblyReference.cache
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\obj\Debug\PRACTICA 2.csproj.CoreCompileInputs.cache
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\obj\Debug\PRACTICA_2.exe
+C:\Users\aleja\Desktop\Alejandro\ITLA\3ER CUATRIMESTRE\PROGRAMACION 1\PRACTICA 2\obj\Debug\PRACTICA_2.pdb
